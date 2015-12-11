@@ -7,6 +7,7 @@
 https://github.com/nvie/gitflow#initialization
 ### Git Flow命令
 https://github.com/nvie/gitflow#creating-featurereleasehotfixsupport-branches
+
 此外，还可以使用Git Flow图形化工具，如SourceTree
 ## 项目开发流程
 ### Start Feature
